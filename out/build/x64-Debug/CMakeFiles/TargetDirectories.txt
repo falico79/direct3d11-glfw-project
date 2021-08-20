@@ -1,0 +1,5 @@
+F:/Programming/Projects/direct3d11-glfw-project/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/Programming/Projects/direct3d11-glfw-project/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+F:/Programming/Projects/direct3d11-glfw-project/out/build/x64-Debug/direct3d11-glfw-project/CMakeFiles/direct3d11-glfw-project.dir
+F:/Programming/Projects/direct3d11-glfw-project/out/build/x64-Debug/direct3d11-glfw-project/CMakeFiles/edit_cache.dir
+F:/Programming/Projects/direct3d11-glfw-project/out/build/x64-Debug/direct3d11-glfw-project/CMakeFiles/rebuild_cache.dir
